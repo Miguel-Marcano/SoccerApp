@@ -1,0 +1,21 @@
+body {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/003/106/558/non_2x/soccer-stadium-night-background-free-vector.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.logo {
+    width: 500px;
+    display: block;
+    margin: auto;
+}
